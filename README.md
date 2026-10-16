@@ -26,9 +26,9 @@ One link in, one video understood: chapters, a timestamped summary and follow-up
 
 ## 试用
 
-直接打开 **<https://yingzhilu.cn>**，无需注册：粘贴一个 B站视频链接，点「检查素材」，确认后几十秒内得到带时间戳的章节、摘要，并可以继续追问。手机浏览器同样可用。
+直接打开 **<https://yingzhilu.cn>**，无需注册：粘贴一个 B站或 YouTube 视频链接，点「检查素材」，确认后几十秒内得到带时间戳的章节、摘要，并可以继续追问。手机浏览器同样可用。
 
-Open **<https://yingzhilu.cn>**, no sign-up needed: paste a Bilibili link, check it, confirm, and get timestamped chapters, a summary and follow-up answers within about a minute. Works on a phone.
+Open **<https://yingzhilu.cn>**, no sign-up needed: paste a Bilibili or YouTube link, check it, confirm, and get timestamped chapters, a summary and follow-up answers within about a minute. Works on a phone.
 
 ## 关于本仓库
 
