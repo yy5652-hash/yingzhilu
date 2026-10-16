@@ -20,7 +20,9 @@ One link in, one video understood: chapters, a timestamped summary and follow-up
 
 ## 试用
 
-评委与面试官试用入口将在面向中国大陆网络的演示版就绪后公布在这里。
+直接打开 **<https://yingzhilu.cn>**，无需注册：粘贴一个 B站视频链接，点「检查素材」，确认后几十秒内得到带时间戳的章节、摘要，并可以继续追问。手机浏览器同样可用。
+
+Open **<https://yingzhilu.cn>**, no sign-up needed: paste a Bilibili link, check it, confirm, and get timestamped chapters, a summary and follow-up answers within about a minute. Works on a phone.
 
 ## 关于本仓库
 
